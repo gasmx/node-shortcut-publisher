@@ -1,3 +1,4 @@
 node_modules/
 !nssm.exe
 *.log
+./*.exe
